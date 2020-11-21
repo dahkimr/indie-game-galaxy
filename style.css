@@ -4,3 +4,21 @@
   margin-right: auto;
   width: 100%
 }
+
+nav {
+  font-family: 'Nerko One', cursive;
+}
+
+.navbar-brand {
+  font-size: 2em;
+}
+
+.nav-item {
+  font-size: 1.5em;
+}
+
+@media screen and  (min-width: 1200px) {
+  #banner {
+    width: 80%;
+  }
+}
